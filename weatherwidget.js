@@ -1,7 +1,7 @@
 class WeatherWidget {
 	
 	constructor() {
-		this.apiKey = "d82ce8a1358792b59a5ccab77b29da42";
+		this.apiKey = "";
 	}
 	
 	getWeather() {
